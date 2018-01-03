@@ -2,6 +2,8 @@
 
 This repository is an implementation of a mock election to be run on Ethereum.
 
+![alt text](screenshot/screenShot.png "A screen shot of the dapp!")
+
 ## Installation
 
 1. Install Truffle and Ganache globally.
